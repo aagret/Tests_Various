@@ -1,48 +1,6 @@
-[0m[0Kbash: cut: command not found[0K[?25l
-[0K[?25h]0;:/m/Alexandre/R-Projects/Tests_R&D_Various[?25l
-[0;32mbloomberg@HP-11-Bloomberg [0;35m [0;33m/m/Alexandre/R-Projects/Tests_R&D_Various[0m[0K
-$[0K[3G[?25h[?25l[1A[0;32mbloomberg@HP-11-Bloomberg [0;35m [0;33m/m/Alexandre/R-Projects/Tests_R&D_Various[0K
-[0m$[0K[3G[?25h[?25l$ g[0K[3G[?25h[4G[?25l$ gi[0K[?25ht[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
-[0K[?25hInitialized empty Git repository in M:/Alexandre/R-Projects/Tests_R&D_Various/.git/[0K[?25l
+[?25l$ g[0K[?25ht[0K[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25hReinitialized existing Git repository in M:/Alexandre/R-Projects/Tests_various/.git/[0K[?25l
 [0K[?25h[?25l
-[0;32mbloomberg@HP-11-Bloomberg [0;35m [0;33m/m/Alexandre/R-Projects/Tests_R&D_Various[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: adding embedded git repository: R-Cache[0K[?25l
-hint: You've added another git repository inside your current repository.[0K
-hint: Clones of the outer repository will not contain the contents of[0K
-hint: the embedded repository and will not know how to obtain it.[0K
-hint: If you meant to add a submodule, use:[0K
-hint:[0K
-hint:   git submodule add <url> R-Cache[0K
-hint:[0K
-hint: If you added this path by mistake, you can remove it from the[0K
-hint: index with:[0K
-hint:[0K
-hint:   git rm --cached R-Cache[0K
-hint:[0K
-hint: See "git help submodule" for more information.[0K
-[0K[?25h[?25l
-[0;32mbloomberg@HP-11-Bloomberg [0;35m [0;33m/m/Alexandre/R-Projects/Tests_R&D_Various[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l
-[0K[?25h[?25l
-[0;32mbloomberg@HP-11-Bloomberg [0;35m [0;33m/m/Alexandre/R-Projects/Tests_R&D_Various[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Kt[0Ki[0K[?25l
-[0K[?25hgit: 'inti' is not a git command. See 'git --help'.[0K[?25l
-[0K
-The most similar command is[0K
-        init[0K
-[0K[?25h[?25l
-[0;32mbloomberg@HP-11-Bloomberg [0;35m [0;33m/m/Alexandre/R-Projects/Tests_R&D_Various[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git inti[0K[?25h[?25l$ git int[0K[?25h[?25l
-[0K[?25hgit: 'int' is not a git command. See 'git --help'.[0K[?25l
-[0K
-The most similar command is[0K
-        init[0K
-[0K[?25h[?25l
-[0;32mbloomberg@HP-11-Bloomberg [0;35m [0;33m/m/Alexandre/R-Projects/Tests_R&D_Various[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git int[0K[?25h[?25l$ git in[0K[10G[?25h[9G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
-[0K[?25hReinitialized existing Git repository in M:/Alexandre/R-Projects/Tests_R&D_Various/.git/[0K[?25l
-[0K[?25h[?25l
-[0;32mbloomberg@HP-11-Bloomberg [0;35m [0;33m/m/Alexandre/R-Projects/Tests_R&D_Various[0;36m (master)[0m[0K
+[0;32mbloomberg@HP-11-Bloomberg [0;35m [0;33m/m/Alexandre/R-Projects/Tests_various[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
